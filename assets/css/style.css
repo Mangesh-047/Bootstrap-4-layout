@@ -86,7 +86,7 @@
 }
 
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 768px) {
     .carousel .carousel-caption {
         top: 10%;
     }
