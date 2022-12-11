@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* css update */
 
 .header .navbar-brand img {
     height: 40px;
@@ -103,7 +102,7 @@
         margin-bottom: 10px;
     } */
 
-    .contact .address {
+    /* .contact .address {
         margin-bottom: 20px;
-    }
+    } */
 }
